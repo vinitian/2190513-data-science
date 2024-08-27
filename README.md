@@ -15,3 +15,4 @@
 ## Lessons
 - 01: intro - what is data science?
 - 02: data preparation, pandas
+- 03: data preparation, pandas
