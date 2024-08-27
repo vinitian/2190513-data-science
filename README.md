@@ -1,7 +1,7 @@
 # 2190513 Data Science
 
 ## Info
-- Y2Y1
+- Y2T1
 - Instructor: Peerapon Vateekul
 - Language: Python
 
