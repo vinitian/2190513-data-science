@@ -14,5 +14,6 @@
 
 ## Lessons
 - 01: intro - what is data science?
-- 02: data preparation, pandas
-- 03: data preparation, pandas
+- 02: data preparation, basic pandas
+- 03: data preparation (narrowing down columns, impute missing values)
+- 04: data preparation (handling outliers, data transformation, train-test data, stratify, random_state)
