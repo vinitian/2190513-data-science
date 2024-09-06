@@ -69,7 +69,7 @@ def Q5(vdo_df):
     cat_list = []
     for d in cat['items']:
         cat_list.append((int(d['id']), d['snippet']['title']))
-        cat_list
+
     cat_df = pd.DataFrame(cat_list, columns=['id', 'category'])
 
     vdo_df_withcat = vdo_df.merge(cat_df, left_on='category_id', right_on='id')
