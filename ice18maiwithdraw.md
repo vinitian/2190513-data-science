@@ -1,3 +1,5 @@
+# remembered questions from data sci midterm
+
 # Q1 -- online course csv
 1. self.df.shape[0]
 2. 
