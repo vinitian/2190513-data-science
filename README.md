@@ -22,3 +22,4 @@
 - 07: pruning, RandomForestClassifier, RandomForestRegressor, bootstrapping, boosting, evaluation measure (classification_report, metrics)
 - 08: *midterm exam*
 - 09: kNN, GridSearchCV, RandomGridSearchCV, LinearRegression, LogisticRegression
+- 10: neural network, MLPClassifier, MLPRegressor, K-means clustering, KMeans, StandardScaler, DBSCAN, association rule mining
