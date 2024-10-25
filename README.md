@@ -23,3 +23,5 @@
 - 08: *midterm exam*
 - 09: kNN, GridSearchCV, RandomGridSearchCV, LinearRegression, LogisticRegression
 - 10: neural network, MLPClassifier, MLPRegressor, K-means clustering, KMeans, StandardScaler, DBSCAN, association rule mining
+- 11: web scraping & fast api
+- 12: *make up midterm exam*
