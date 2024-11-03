@@ -25,3 +25,4 @@
 - 10: neural network, MLPClassifier, MLPRegressor, K-means clustering, KMeans, StandardScaler, DBSCAN, association rule mining
 - 11: web scraping & fast api
 - 12: *make up midterm exam*
+- 13: AWS quicksight
