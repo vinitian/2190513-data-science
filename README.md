@@ -28,3 +28,6 @@
 - 11: web scraping & fast api
 - 12: *make up midterm exam*
 - 13: AWS quicksight
+- 14: web scraping - BeautifulSoup, Selenium, REST API, FastAPI
+- 15: data storage - SQL, MongoDB
+- 16: streamlit
