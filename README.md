@@ -25,9 +25,9 @@
 - 08: *midterm exam*
 - 09: kNN, GridSearchCV, RandomGridSearchCV, LinearRegression, LogisticRegression
 - 10: neural network, MLPClassifier, MLPRegressor, K-means clustering, KMeans, StandardScaler, DBSCAN, association rule mining
-- 11: web scraping & fast api
+- 11: web scraping - BeautifulSoup, Selenium, REST API, FastAPI
 - 12: *make up midterm exam*
-- 13: AWS quicksight
-- 14: web scraping - BeautifulSoup, Selenium, REST API, FastAPI
-- 15: data storage - SQL, MongoDB
-- 16: streamlit
+- 13: BI dashboard, AWS QuickSight
+- 14: data storage - SQL, MongoDB
+- 15: streamlit
+- 16: advanced AI/ML topics
